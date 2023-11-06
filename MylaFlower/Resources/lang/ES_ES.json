@@ -1,0 +1,12 @@
+{
+        "FLOWER_OFFER": "...Entierra mi cuerpo, atraviésalo c-con tu aguijón<br>La oscuridad me invade<br>Esperaré por la luz, y ella vendrá por mí<br>Una frágil y pálida vasija<br>Ofrecida a la oscuridad dentro mía",
+  	    "FLOWER_OFFER_YN": "¿Dar la Flor Delicada?",
+  	    "GIVEN_FLOWER": "¿Acaso esto era lo que me estaba llamando?<br>Su tenue aura disipa las voces<br>Y rompe por entre la luz y la oscuridad",
+  	    "NOT_GIVEN_FLOWER": "...E-es mejor así...m-mi mente...tan rota...no podría tocar...algo t-tan puro...",
+  	    "CRAZY_DREAM": "¿P-puedo tomarlo? ....DESTRÚYELO.... ¿Me lo ofreces?....NO LO TOQUES...¿P-puedo tomarlo?.... MÁTALO....¿Me lo ofreces?.....PELIGROSO",
+  	    "GIVEN_DIALOGUE": [
+                "¡H-hola de nuevo amigo mío! Creo que has perdido algún brillo especial, pero no te preocupes, lo encontraremos. Sucede igual que con los amigos, ¿no es así?<br>Siempre estan contigo, aunque esten lejos",
+                "¡Hola amigo! Mira, tu regalo sirve como una bonita linterna al picar. La tendré siempre a mi lado. ¡Muchísimas gracias, otra vez!",
+                "¡Oh h-hola, amigo! Mira, tu regalo emite una maravillosa energía. Me encanta tenerla siempre a mi lado. ¡Muchísimas gracias!"
+          ]
+}
